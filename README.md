@@ -8,7 +8,7 @@
   Lately, I've spent time helping teams get better at things like 
   [Continuous Delivery](https://martinfowler.com/bliki/ContinuousDelivery.html),
   [Immutable Infrastructure](https://www.hashicorp.com/resources/what-is-mutable-vs-immutable-infrastructure)
-  and using the [Cloud](https://en.wikipedia.org/wiki/Cloud_computing).
+  and using the [cloud](https://landscape.cncf.io/).
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/lycka).
 
 <!---
