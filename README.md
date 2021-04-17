@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Magnus Lyckå, @magnus-lycka on Github.
 - 👀 I’m a curious person with lots of interests, and I always have a few projects in the air.
 - 🌱 I’m constantly learning new things about technology, humanity and this world that we live in.
-  I've been fond of [Linux]() since 1.2.8, and [Python]() since 1.4.2.
+  I've been fond of [Linux](https://www.kernel.org/doc/html/latest/) since 1.2.8, and [Python](https://www.python.org/) since 1.4.2.
   I've had a passion for agile ways of working since I came across 
   [Extreme Programming](http://wiki.c2.com/?ExtremeProgramming) and
   [Refactoring](https://refactoring.com/) in 1999.
